@@ -31,7 +31,7 @@ const Hero = () => {
               I transform ideas into engaging digital solutions. Let&apos;s build something amazing together!
             </p>
             <div className="flex justify-center">
-              <Link href={"#Contact"}>
+              <Link href={"#contact"}>
                 <button className="inline-flex text-gray-100 bg-black border-0 py-2 px-8 focus:outline-none hover:bg-gray-700 rounded text-lg">
                   Contact
                 </button>
