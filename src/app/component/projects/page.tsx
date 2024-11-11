@@ -66,7 +66,7 @@ const Projects = () => {
                   <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
                     ANALOG CLOCK
                   </h1>
-                  <p className="leading-relaxed line-clamp-2">
+                  <p className="leading-relaxed line-clamp-1">
                     I have created an Analog Clock
                   </p>
                   <Link target='_blank' href="https://vercel.com/abdul-salams-projects-29c00320/analog-clock">
@@ -149,11 +149,11 @@ const Projects = () => {
                   <h2 className="tracking-widest text-sm title-font font-medium text-gray-900 mb-1">
                     Facebook login page project
                   </h2>
-                  <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
+                  <h1 className="title-font text-lg font-medium text-gray-900  -mb-2">
                     FACEBOOK LOGIN PAGE 
                   </h1>
                   <p className="leading-relaxed line-clamp-1">
-                    I have Created facebook login page clone using HTML CSS
+                    facebook login page clone using HTML CSS
                   </p>
                   <Link target='_blank' href="https://vercel.com/abdul-salams-projects-29c00320/facebook-login-page">
                     <p className="leading-relaxed text-blue-500 hover:underline">
